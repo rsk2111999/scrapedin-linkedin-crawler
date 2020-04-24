@@ -2,7 +2,7 @@
   "email": "rsk2111999@gmail.com",
   "password": "G104@Samrajya",
   "cookiesFile": "",
-  "relatedProfilesKeywords": [],
+  "relatedProfilesKeywords": [poker],
   "maxConcurrentCrawlers": 2,
   "profileLoadWaitTime": 5000,
   "saveDirectory": "./crawledProfiles",
